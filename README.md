@@ -1,0 +1,1 @@
+This will be a basic website created with the html I've learned so far through the Odin-Project. There will be multiple pages linked to the main webpage along with some images (probably).
